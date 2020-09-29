@@ -1,0 +1,43 @@
+
+  AFTER INSERT
+
+ramrtyim  019923294
+ramidfgm  019923294
+rafmim  019923294
+rafmim  019923294
+ramim  019923294
+ramdim  019923294
+samfim  019923294
+
+.....................
+
+  AFTER DELETE
+
+DATA NOT FOUND
+ramrtyim  019923294
+ramidfgm  019923294
+rafmim  019923294
+rafmim  019923294
+ramim  019923294
+ramdim  019923294
+samfim  019923294
+
+.....................
+
+  AFTER SEARCH
+
+DATA NOT FOUND
+
+.....................
+
+   AFTER UPDATE
+
+ramrtyim  019923294
+ramidfgm  019923294
+rafmim  019923294
+rafmim  019923294
+ORTHY  019923294
+ramdim  019923294
+samfim  019923294
+
+.....................
