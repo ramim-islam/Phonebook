@@ -1,5 +1,5 @@
-# CPP
-Linked List Implementation
+# Phonebook
+This project is done with linked list Implementation using the tool c++
 
 : input will be taken from input.txt file
 
